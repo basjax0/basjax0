@@ -16,17 +16,12 @@
 ## About Me
 
 I'm a Cybersecurity student with a strong interest in:
-
-- Defensive Security and Blue Team operations
+- Defensive Security and Blue Team
 - Network Security
 - Computer Networks
 - Threat Detection and Prevention
 
-I'm currently working on my Engineering Thesis:
-
-**Network Security System with Automatic Threat Detection and Prevention**
-
-The project focuses on detecting and responding to Layer 2 network attacks using Python, SNMP, Syslog, SQLite, and Cisco switches.
+I'm currently working on my Engineering Thesis: **Network Security System with Automatic Threat Detection and Prevention**. The project focuses on detecting and responding to Layer 2 network attacks using Python, SNMP, Syslog, SQLite, and Cisco switches.
 
 ## Technologies
 
@@ -37,13 +32,6 @@ The project focuses on detecting and responding to Layer 2 network attacks using
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge">
 </p>
-
-## Current Focus
-
-- Building a network threat detection and prevention system
-- Working with SNMPv3 and Syslog
-- Detecting ARP spoofing, STP attacks, and unauthorized trunking
-- Developing my Blue Team and SOC skills
 
 ## Connect With Me
 
