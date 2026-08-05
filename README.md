@@ -1,5 +1,6 @@
 ### About Me:
 Hi, I'm Basia! I'm currently working on my Engineering Thesis focused on creating a Network Security System with Automatic Threat Detection and Prevention.
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 ### Find me here:
