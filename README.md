@@ -16,8 +16,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/barbara-gaba%C5%82a-340095274">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
+      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="Connect with me on LinkedIn"
     >
   </a>
 </p>
