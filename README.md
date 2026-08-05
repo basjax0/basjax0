@@ -21,7 +21,7 @@ I'm a Cybersecurity student with a strong interest in:
 - Computer Networks
 - Threat Detection and Prevention
 
-I'm currently working on my Engineering Thesis: **Network Security System with Automatic Threat Detection and Prevention**. The project focuses on detecting and responding to Layer 2 network attacks using Python, SNMP, Syslog, SQLite, and Cisco switches.
+I'm currently working on my Engineering Thesis: **Network Security System with Automatic Threat Detection and Prevention**. The project focuses on detecting and responding to Layer 2 network attacks using Python, SNMP, Syslog, SQLite, and Cisco devices.
 
 ## Technologies
 
