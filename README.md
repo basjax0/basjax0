@@ -11,6 +11,7 @@
     alt="Cat GIF"
     width="280"
   >
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barbara-gaba%C5%82a-340095274)
 </p>
 
 ## About Me
@@ -36,6 +37,4 @@ I'm currently working on my Engineering Thesis: **Network Security System with A
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barbara-gaba%C5%82a-340095274)
