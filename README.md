@@ -29,7 +29,7 @@ I'm currently working on my Engineering Thesis: **Network Security System with A
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logoColor=pink">
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco%20Meraki-67B346?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Palo%20Alto%20Networks-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white">
