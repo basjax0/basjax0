@@ -13,15 +13,6 @@
   >
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/barbara-gaba%C5%82a-340095274">
-    <img
-      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="Connect with me on LinkedIn"
-    >
-  </a>
-</p>
-
 ## About Me
 
 I'm a Cybersecurity student with a strong interest in:
@@ -31,6 +22,15 @@ I'm a Cybersecurity student with a strong interest in:
 - Threat Detection and Prevention
 
 I'm currently working on my Engineering Thesis: **Network Security System with Automatic Threat Detection and Prevention**. The project focuses on detecting and responding to Layer 2 network attacks using Python, SNMP, Syslog, SQLite, and Cisco devices.
+
+<p align="center">
+  <a href="https://linkedin.com/in/barbara-gaba%C5%82a-340095274">
+    <img
+      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="Connect with me on LinkedIn"
+    >
+  </a>
+</p>
 
 ## Technologies
 
