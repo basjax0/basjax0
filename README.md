@@ -18,7 +18,7 @@
 I'm a Cybersecurity student at
 <a href="https://pwr.edu.pl/en/">
   <strong>Wrocław University of Science and Technology</strong></a> 
-and an IT Infrastructure Operations Analyst, supporting cloud, server, and network environments. I'm especially interested in: 
+and an Information Security Analyst. I'm especially interested in: 
 - Defensive Security,
 - Blue Team,
 - Network Security,
